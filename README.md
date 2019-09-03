@@ -1,4 +1,4 @@
-<h2 align="center">Hello</h2>
+<h1 align="center">Hello</h1>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
